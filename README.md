@@ -66,7 +66,7 @@ Ans: Oliver Bennett
 Ans: 9d1ecbbe8637fed0d89fca1af35ea821277ad2e8
 
 3. Which malware framework utilizes these DLLs as add-on modules?
-<\a>To answer this(and the next few questions) we use the help of an article <a href="https://www.welivesecurity.com/2023/04/26/evasive-panda-apt-group-malware-updates-popular-chinese-software/">Evasive Panda APT group delivers malware via updates for popular Chinese software</a>
+<br>To answer this(and the next few questions) we use the help of an article <a href="https://www.welivesecurity.com/2023/04/26/evasive-panda-apt-group-malware-updates-popular-chinese-software/">Evasive Panda APT group delivers malware via updates for popular Chinese software</a>
 <img src="https://github.com/user-attachments/assets/14273605-2aaf-41d0-a265-3ad910c6ddf9" alt="Aticle used">
 <img src="https://github.com/user-attachments/assets/9f766a4d-1807-4023-8f4e-9a3cbe8bbc98" alt="Relevant Section">
 Ans: MgBot
