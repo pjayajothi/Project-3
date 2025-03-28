@@ -23,30 +23,24 @@ Start the virtual machine in split-screen view by clicking the green Start Machi
 This CTF room focuses on Cyber Threat Intelligence (CTI) and Malware Analysis skills. Here’s what you can expect to learn:
 
 1. Malware Handling & Analysis
-Securely downloading malware samples and ensuring containment in a sandboxed environment.
-
-Preliminary automated malware analysis using tools like VirusTotal, Any.Run, or hybrid-analysis.com.
-
-Manual malware analysis using static and dynamic techniques (e.g., strings analysis, behavioral analysis).
+- Securely downloading malware samples and ensuring containment in a sandboxed environment.
+- Preliminary automated malware analysis using tools like VirusTotal, Any.Run, or hybrid-analysis.com.
+- Manual malware analysis using static and dynamic techniques (e.g., strings analysis, behavioral analysis).
 
 2. Threat Intelligence & Correlation
-Identifying Indicators of Compromise (IOCs) from malware samples.
-
-Matching findings with global threat intelligence databases to determine if the malware is known or new.
-
-Understanding malware communication patterns (e.g., C2 servers, domain lookups).
+- Identifying Indicators of Compromise (IOCs) from malware samples.
+- Matching findings with global threat intelligence databases to determine if the malware is known or new.
+- Understanding malware communication patterns (e.g., C2 servers, domain lookups).
 
 3. Incident Response & Mitigation
-Compiling an investigative report summarizing malware characteristics, potential damage, and recommended mitigation steps.
-
-Suggesting recovery steps for an affected financial institution.
-
-Implementing threat-hunting techniques to detect similar threats in the network.
+- Compiling an investigative report summarizing malware characteristics, potential damage, and recommended mitigation steps.
+- Suggesting recovery steps for an affected financial institution.
+- Implementing threat-hunting techniques to detect similar threats in the network.
 
 4. Hands-on with Threat Intel Platforms
-Using DocIntel or other CTI platforms to analyze and manage threat data.
+- Using DocIntel or other CTI platforms to analyze and manage threat data.
+- Enriching intelligence reports by correlating malware signatures with past incidents.
 
-Enriching intelligence reports by correlating malware signatures with past incidents.
 This CTF is ideal for building practical threat intelligence and malware analysis experience, which can be valuable for roles in SOC analysis, CTI, digital forensics, and incident response.
 
 ### Tools Used
@@ -87,11 +81,11 @@ Ans: hxxp[://]update[.]browser[.]qq[.]com/qmbs/QQ/QQUrlMgr_QQ88_4296[.]exe
 Ans: 122[.]10[.]90[.]12
 
 7. What is the SHA1 hash of the spyagent family spyware hosted on the same IP targeting Android devices on November 16, 2022?
-<\n>To answer this we use the help of Virus Total:
-<img src="https://github.com/user-attachments/assets/82648042-bb8e-43c6-9771-cab2689e6d3d" alt="First Alert">
-<img src="https://github.com/user-attachments/assets/64f12cbc-1cbc-4182-b4f6-111909beea2e" alt="First Alert">
-<img src="https://github.com/user-attachments/assets/9015e3d3-86ff-45ff-acde-9a4addfb534f" alt="First Alert">
-<img src="https://github.com/user-attachments/assets/a2703f04-fb30-4c57-b2dd-d8b826d828c9" alt="First Alert">
+<br>To answer this we use the help of Virus Total:
+<img src="https://github.com/user-attachments/assets/82648042-bb8e-43c6-9771-cab2689e6d3d" alt="VirusTotal">
+<img src="https://github.com/user-attachments/assets/64f12cbc-1cbc-4182-b4f6-111909beea2e" alt="Go to the Relations tab">
+<img src="https://github.com/user-attachments/assets/9015e3d3-86ff-45ff-acde-9a4addfb534f" alt="In the Android section, click on the name">
+<img src="https://github.com/user-attachments/assets/a2703f04-fb30-4c57-b2dd-d8b826d828c9" alt="Go to the details section">
 Ans: 1c1fe906e822012f6235fcc53f601d006d15d7be
 
 
