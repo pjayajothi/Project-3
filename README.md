@@ -51,7 +51,8 @@ This CTF is ideal for building practical threat intelligence and malware analysi
 
 ### Tools Used
 <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
-
+<a href="https://www.virustotal.com"><img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white" /></a>
+<a href="https://gchq.github.io/CyberChef/"><img src="https://img.shields.io/badge/-CyberChef-0078D7?style=flat&logo=microsoft&logoColor=white" /></a>
 
 ## Steps
 1. Find out- Who shared the malware samples?- from the first alert.
@@ -65,6 +66,7 @@ Ans: Oliver Bennett
 Ans: 9d1ecbbe8637fed0d89fca1af35ea821277ad2e8
 
 3. Which malware framework utilizes these DLLs as add-on modules?
+<\n>To answer this(and the next few questions) we use the help of an article <a href="https://www.welivesecurity.com/2023/04/26/evasive-panda-apt-group-malware-updates-popular-chinese-software/">Evasive Panda APT group delivers malware via updates for popular Chinese software</a>
 <img src="https://github.com/user-attachments/assets/14273605-2aaf-41d0-a265-3ad910c6ddf9" alt="Aticle used">
 <img src="https://github.com/user-attachments/assets/9f766a4d-1807-4023-8f4e-9a3cbe8bbc98" alt="Relevant Section">
 Ans: MgBot
@@ -85,6 +87,7 @@ Ans: hxxp[://]update[.]browser[.]qq[.]com/qmbs/QQ/QQUrlMgr_QQ88_4296[.]exe
 Ans: 122[.]10[.]90[.]12
 
 7. What is the SHA1 hash of the spyagent family spyware hosted on the same IP targeting Android devices on November 16, 2022?
+<\n>To answer this we use the help of Virus Total:
 <img src="https://github.com/user-attachments/assets/82648042-bb8e-43c6-9771-cab2689e6d3d" alt="First Alert">
 <img src="https://github.com/user-attachments/assets/64f12cbc-1cbc-4182-b4f6-111909beea2e" alt="First Alert">
 <img src="https://github.com/user-attachments/assets/9015e3d3-86ff-45ff-acde-9a4addfb534f" alt="First Alert">
