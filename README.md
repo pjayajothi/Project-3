@@ -56,7 +56,7 @@ This CTF is ideal for building practical threat intelligence and malware analysi
 ## Steps
 1. Find out- Who shared the malware samples?- from the first alert.
 Ans: Oliver Bennett
-
+<img src="https://github.com/user-attachments/assets/3a366d85-3c3c-477f-871d-97f9fcf24dfc" alt="First Alert">
 2. What is the SHA1 hash of the file "pRsm.dll" inside samples.zip?
 Ans: 9d1ecbbe8637fed0d89fca1af35ea821277ad2e8
 
@@ -74,4 +74,21 @@ Ans: 122[.]10[.]90[.]12
 
 7. What is the SHA1 hash of the spyagent family spyware hosted on the same IP targeting Android devices on November 16, 2022?
 Ans: 1c1fe906e822012f6235fcc53f601d006d15d7be
+
+![Image](https://github.com/user-attachments/assets/3a366d85-3c3c-477f-871d-97f9fcf24dfc)
+![Image](https://github.com/user-attachments/assets/fc9f8538-6a4c-4b95-a8b4-f68c8566c20e)
+![Image](https://github.com/user-attachments/assets/d7472040-fbde-4f43-9f25-edc119af168a)
+![Image](https://github.com/user-attachments/assets/0876da89-4dd2-4b88-9c5d-063b78344f22)
+![Image](https://github.com/user-attachments/assets/9602648c-c80b-46d3-9739-391853cf824f)
+![Image](https://github.com/user-attachments/assets/7ea98e3e-b9b6-4746-b8e6-2665beb462e9)
+![Image](https://github.com/user-attachments/assets/9f766a4d-1807-4023-8f4e-9a3cbe8bbc98)
+![Image](https://github.com/user-attachments/assets/14273605-2aaf-41d0-a265-3ad910c6ddf9)
+![Image](https://github.com/user-attachments/assets/0bfba5c7-15ae-4a34-a30a-c897b0b721d3)
+![Image](https://github.com/user-attachments/assets/87a6fd8c-149b-4cd4-9488-5de2ab95fec3)
+![Image](https://github.com/user-attachments/assets/0199b7af-4b99-44e0-87fc-33ba30fbd25f)
+![Image](https://github.com/user-attachments/assets/c79acc8b-9710-46e7-8cc9-8bd5d75a3bc7)
+![Image](https://github.com/user-attachments/assets/82648042-bb8e-43c6-9771-cab2689e6d3d)
+![Image](https://github.com/user-attachments/assets/64f12cbc-1cbc-4182-b4f6-111909beea2e)
+![Image](https://github.com/user-attachments/assets/9015e3d3-86ff-45ff-acde-9a4addfb534f)
+![Image](https://github.com/user-attachments/assets/a2703f04-fb30-4c57-b2dd-d8b826d828c9)
 
