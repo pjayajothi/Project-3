@@ -1,4 +1,4 @@
-# TryHackMe- Fridat Overtime
+# TryHackMe- Friday Overtime
 
 ## Objective
 
