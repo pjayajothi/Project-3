@@ -17,8 +17,6 @@ Correlating findings with global threat intelligence databases to identify known
 Compiling a comprehensive report with mitigation and recovery steps, ensuring SwiftSpend Finance could swiftly address potential threats.
 Connecting to the machine
 
-Start the virtual machine in split-screen view by clicking the green Start Machine button on the upper right section of this task. If the VM is not visible, use the blue Show Split View button at the top-right of the page. Additionally, you can open the DocIntel platform using the credentials below.  
-
 ## Skills Learned
 This CTF room focuses on Cyber Threat Intelligence (CTI) and Malware Analysis skills. Here’s what you can expect to learn:
 
